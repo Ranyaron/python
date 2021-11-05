@@ -1,2 +1,0 @@
-Enter data line by line.
-The end of data entry is indicated by an empty line.
